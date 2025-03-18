@@ -1,7 +1,7 @@
 # Unofficial PyMOL GNU Linux Build (Binary Wheel)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/urban233/pymol-open-source-linux-build/graphs/commit-activity)
-[![GitHub issues](https://img.shields.io/github/issues/urban233/pymol-open-source-linux-build)](https://GitHub.com/urban233/pymol-open-source-linux-build/issues/)
-[![GitHub contributors](https://img.shields.io/github/contributors/urban233/pymol-open-source-linux-build.svg)](https://GitHub.com/urban233/pymol-open-source-linux-build/graphs/contributors/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/kullik01/pymol-open-source-linux-build/graphs/commit-activity)
+[![GitHub issues](https://img.shields.io/github/issues/kullik01/pymol-open-source-linux-build)](https://GitHub.com/kullik01/pymol-open-source-linux-build/issues/)
+[![GitHub contributors](https://img.shields.io/github/contributors/kullik01/pymol-open-source-linux-build.svg)](https://GitHub.com/kullik01/pymol-open-source-linux-build/graphs/contributors/)
 
 This repository offers **unofficial** binary wheels for the open-source version of PyMOL.
 
